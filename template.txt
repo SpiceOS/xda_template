@@ -1,0 +1,106 @@
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/android_packages_apps_Settings/2a35041a50c779433da114f5f452aca9738ce1bc/res/drawable-nodpi/spiceos.png[/IMG][/CENTER] 
+ 
+SpiceOS is a free, community built, aftermarket firmware distribution of Android 11 (R), which is designed to increase performance and reliability over stock Android for your device. 
+ 
+SpiceOS is based on the LineageOS Project with extra contributions from many people within the Mallu Android community. It can be used without any need to have any Google application installed. You will need to provide your own Google Applications package (gapps). LineageOS does still include various hardware-specific code, which is also slowly being open-sourced anyway. 
+ 
+
+ 
+[CENTER] 
+[INDENT] 
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/xda_template/11/Banner/source.png[/IMG][/CENTER]
+[LIST] 
+[*]Kernel source code: [URL="https://github.com/LineageOS/android_kernel_motorola_msm8916"]LineageOS/android_kernel_motorola_msm8916[/URL]  // YOUR DEVICE SOURCES HERE
+[*]Our Source code is available in the SpiceOS [URL="https://github.com/SpiceOS"]Github repo[/URL]
+[*]Base source code is available in the LineageOS [URL="http://github.com/LineageOS"]Github repo[/URL].
+[/LIST] 
+[/INDENT]
+[/CENTER]
+
+[B]Working:[/B] 
+[LIST] 
+[*]Camera (and flashlight) 
+[*]WiFi 
+[*]Battery LED
+[*]Bluetooth 
+[*]Telephony (Calls and Data) 
+[*]Audio (Record and Playback) 
+[*]Video Playback 
+[*]Sensors 
+[/LIST] 
+
+[B]Broken:[/B] 
+[LIST] 
+[B]You tell me whats broken with logs[/B]
+[/LIST] 
+
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/xda_template/11/Banner/features.png[/IMG][/CENTER]
+
+[CENTER]
+[LIST]
+[*] Basic LineageOS features
+[*] Lottiee Animation
+[*] Theme picker
+[*] 4G/LTE toggle
+[*] Bluetooth Battery Status
+[*] VoLTE Icons
+[*] VoWiFi Icons
+[*] Volte/Vowifi Icon Ovveride Toggle
+[*] QS Tile Vibrate
+[*] QS Tile Title
+[*] QS Row&Coloumn Customization
+[*] Lockscreen Lock Icon Toggle
+[*] Toggle For Roaming Indicator
+[*] Lockscreen charging Info
+[*] MIUI Volume Panel
+[/LIST]
+[/CENTER]
+
+[CENTER][B]Compatibility:[/B] 
+[INDENT]Moto G 2015 (XT1540, XT1541, XT1542, XT1543, XT1544, XT1548 and XT1550) // YOUR DEVICE NAME HERE
+[/INDENT] 
+[/CENTER]
+ 
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/xda_template/11/Banner/download.png[/IMG][/CENTER] 
+[CENTER][LIST] 
+[*][URL="*YOUR URL HERE*"]Download links[/URL] 
+[/LIST] 
+[/CENTER]
+
+[CENTER]
+[B]Notice:[/B] 
+[LIST] 
+[*][COLOR="Red"]No custom kernels are supported in this thread. Only stock kernel and official builds will be supported. No bug reports if that's not the case.[/COLOR] 
+[/LIST] 
+[/CENTER]
+
+[CENTER] 
+[B]Installation:[/B] 
+[LIST] 
+[*]Reboot to recovery 
+[*]Format /system,/data and /cache 
+[*]Install SpiceOS zip package 
+[/LIST] 
+[/CENTER]
+
+[CENTER]
+[INDENT][COLOR="Red"][B]Important notes:[/B][/COLOR] 
+[LIST] 
+[*][B][COLOR="Red"]* Required *[/COLOR][/B] firmware version must be based on MM builds.
+[*]GApps can only be flashed on clean installs. 
+[*]Formatting data (all user data is wiped, including internal storage) is a must if Stockrom was previously installed and device was encrypted. 
+[/LIST][/INDENT] 
+
+[URL="https://t.me/spiceos"]Telegram Community[/URL] 
+[/CENTER]
+
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/xda_template/11/Banner/credits.png[/IMG][/CENTER]
+[CENTER][B]
+LineageOS team 
+AOSP
+SpiceOS Community
+CrDroid 
+AOSPA
+Pixel Experience
+BlissROM
+[/B][/CENTER]
