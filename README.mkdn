@@ -1,11 +1,11 @@
 ![alt text][logo]
 
   [logo]:https://github.com/SpiceOS-Beta/xda_template/blob/12/Banner/banner.png ""
-* Below features are as of 18 Feb, 2022 in the SpiceOS Beta source.
+* Below features are as of 25 April, 2022 in the SpiceOS Beta source.
 
 General
 ----------
-* Always latest Android 12.0.
+* Always latest Android 12.1.
 * Upto date Security patches.
 * SpiceOS Settings - Our own farmland of customizations.
 * Optimized for better stability and Performance.
@@ -15,18 +15,18 @@ Status Bar
     * Status Bar icons toggle
     * Network Traffic monitor and customization
     * 4G icon toggle
-    * Roaming indicator toggle
-    * VoLTE style toggle
     * Battery style and percentage customization
 
 Quick Settings
 ----------
     * Quick QS Pulldown
-
+    * Show Brightness Slider
+    * Show Brightness Slider in QS Panel
+    * Adaptive Brightness Button
+    * Show Brightness Slider on bottom
 Buttons
 ----------
     * Music Control
-    * Volume Rocker Wake
 
 Navigation Bar
 ----------
@@ -35,11 +35,13 @@ Navigation Bar
 Lockscreen
 ----------
     * Lockscreen Charging Info.
-
+    * Ambient wake gestures.
+    * Music Ticker.
+    * Show Media Art.
+    * Media art blur level.
 Power Menu
 ----------
-    * Disable Power Menu on Lockscreen
-    * Turn on or off some Power Menu Options.
+    * Enable Advanced Restart
 
 Gestures
 ----------
@@ -54,3 +56,5 @@ Notifications
     * Vibrate on call connect
     * Vibrate on call waiting
     * Vibrate on call disconnect
+    * Heads Up
+    * Saner Heads Up
