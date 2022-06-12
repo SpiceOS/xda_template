@@ -16,6 +16,9 @@ Status Bar
     * Network Traffic monitor and customization
     * 4G icon toggle
     * Battery style and percentage customization
+    * Show Dat Disabled icon
+    * Roaming Indicator
+    * Small mobile type icon
 
 Quick Settings
 ----------
@@ -24,6 +27,7 @@ Quick Settings
     * Show Brightness Slider in QS Panel
     * Adaptive Brightness Button
     * Show Brightness Slider on bottom
+    * Vibrate on Touch
 Buttons
 ----------
     * Music Control
@@ -39,9 +43,21 @@ Lockscreen
     * Music Ticker.
     * Show Media Art.
     * Media art blur level.
+    * Music Visualizer
+
+Customization
+----------
+    * Monet Engine.
+    * Headline/Body Fony
+    * Icon Pack.
+    * Signal Icon Style.
+    * Wifi icon Style.
+    * Icon Shape.
+
 Power Menu
 ----------
     * Enable Advanced Restart
+    * Disable power menu on lock screen.
 
 Gestures
 ----------
