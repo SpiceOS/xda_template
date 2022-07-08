@@ -1,7 +1,7 @@
 ![alt text][logo]
 
-  [logo]:https://github.com/SpiceOS-Beta/xda_template/blob/12/Banner/banner.png ""
-* Below features are as of 25 April, 2022 in the SpiceOS Beta source.
+  [logo]:https://github.com/SpiceOS-Beta/xda_template/blob/12.1/Banner/banner.png ""
+* Below features are as of 08 June, 2022 in the SpiceOS Beta source.
 
 General
 ----------
@@ -28,6 +28,7 @@ Quick Settings
     * Adaptive Brightness Button
     * Show Brightness Slider on bottom
     * Vibrate on Touch
+    * QS Transperancy
 Buttons
 ----------
     * Music Control
@@ -74,3 +75,13 @@ Notifications
     * Vibrate on call disconnect
     * Heads Up
     * Saner Heads Up
+    * Edge Lighting
+    * Edge Lighting View
+    * Edge Lighting Color
+    * Edge Lighting Duration
+
+Miscellaneous
+----------
+    * Wake on Plug
+    * Ripple effect
+    * Haptic Feedback on back gesture.
