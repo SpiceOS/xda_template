@@ -1,15 +1,15 @@
-[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS-Beta/xda_template/12/Banner/banner.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/xda_template/13/Banner/banner.png[/IMG][/CENTER]
 
-SpiceOS is a free, community built, aftermarket firmware distribution of Android 12 (R), which is designed to increase performance and reliability over stock Android for your device.
+SpiceOS is a free, community built, aftermarket firmware distribution of Android 13 (T), which is designed to increase performance and reliability over stock Android for your device.
 
 SpiceOS is based on the Android Open Source Project(AOSP) with extra contributions from many people within the Mallu Android community. It can be used without any need to have any Google application installed. You will need to provide your own Google Applications package (gapps).
 
 [CENTER]
 [INDENT]
-[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS-Beta/xda_template/12/Banner/source.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/xda_template/13/Banner/source.png[/IMG][/CENTER]
 [LIST]
 [*]Kernel source code: [URL="https://github.com/LineageOS/android_kernel_motorola_msm8916"]LineageOS/android_kernel_motorola_msm8916[/URL]  // YOUR DEVICE SOURCES HERE
-[*]Our Source code is available in the SpiceOS [URL="https://github.com/SpiceOS-Beta"]Github repo[/URL]
+[*]Our Source code is available in the SpiceOS [URL="https://github.com/SpiceOS"]Github repo[/URL]
 [/LIST]
 [/INDENT]
 [/CENTER]
@@ -31,10 +31,10 @@ SpiceOS is based on the Android Open Source Project(AOSP) with extra contributio
 [B]You tell me whats broken with logs[/B]
 [/LIST]
 
-[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS-Beta/xda_template/12/Banner/features.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/xda_template/13/Banner/features.png[/IMG][/CENTER]
 
 [CENTER]
-[URL="https://github.com/SpiceOS-Beta/xda_template/blob/12/README.mkdn"]https://github.com/SpiceOS-Beta/xda_template/blob/12/README.mkdn[/URL]
+[URL="https://github.com/SpiceOS/xda_template/blob/13/README.mkdn"]https://github.com/SpiceOS/xda_template/blob/13/README.mkdn[/URL]
 [/CENTER]
 
 [CENTER][B]Compatibility:[/B]
@@ -42,7 +42,7 @@ SpiceOS is based on the Android Open Source Project(AOSP) with extra contributio
 [/INDENT]
 [/CENTER]
 
-[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS-Beta/xda_template/12/Banner/download.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/xda_template/13/Banner/download.png[/IMG][/CENTER]
 [CENTER][LIST]
 [*][URL="*YOUR URL HERE*"]Download links[/URL]
 [/LIST]
@@ -75,7 +75,7 @@ SpiceOS is based on the Android Open Source Project(AOSP) with extra contributio
 [URL="https://t.me/spiceos"]Telegram Community[/URL]
 [/CENTER]
 
-[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS-Beta/xda_template/12/Banner/credits.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/SpiceOS/xda_template/13/Banner/credits.png[/IMG][/CENTER]
 [CENTER][B]
 LineageOS team
 AOSP
