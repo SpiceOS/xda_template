@@ -1,36 +1,40 @@
-  [logo]:https://github.com/SpiceOS-Beta/xda_template/blob/12.1/Banner/banner.png ""
-* Below features are as of 15 August, 2022 in the SpiceOS Beta source.
+<div align="center">
+<hr>
+<img src="https://github.com/SpiceOS/xda_template/blob/13/Banner/header.png?raw=true">
+<br>
+<br>
+<strong><i>* Below features are as of 08 November, 2022 in the SpiceOS Beta source.</i></strong>
+<br>
+<br>
+<hr>
+</div>
 
 General
 ----------
-* Always latest Android 12.1.
+* Always latest Android 13.
 * Upto date Security patches.
 * SpiceOS Settings - Our own farmland of customizations.
 * Optimized for better stability and Performance.
 
 Status Bar
 ----------
-    * Status Bar icons toggle
     * Network Traffic monitor and customization
     * 4G icon toggle
     * Battery style and percentage customization
-    * Show Dat Disabled icon
+    * Show Data Disabled icon
     * Roaming Indicator
-    * Small mobile type icon
 
 Quick Settings
 ----------
-    * Quick QS Pulldown
     * Show Brightness Slider
     * Show Brightness Slider in QS Panel
     * Adaptive Brightness Button
     * Show Brightness Slider on bottom
     * Vibrate on Touch
-    * QS Transperancy
+
 Buttons
 ----------
     * Music Control
-    * Volume Rocker Wake
 
 Navigation Bar
 ----------
@@ -39,15 +43,12 @@ Navigation Bar
 Lockscreen
 ----------
     * Lockscreen Charging Info.
-    * Ambient wake gestures.
-    * Music Ticker.
-    * Show Media Art.
-    * Media art blur level.
-    * Music Visualizer
+    * Pulse
+    * Edge Lighting
+    * FP Authentication & error vibration
 
 Customization
 ----------
-    * Monet Engine.
     * Headline/Body Fony
     * Icon Pack.
     * Signal Icon Style.
@@ -57,14 +58,11 @@ Customization
 Power Menu
 ----------
     * Enable Advanced Restart
-    * Disable power menu on lock screen.
 
 Gestures
 ----------
     * System Gestures.
-    * Torch Gestures
     * Three Finger Gesture for Screenshot.
-    * Double tap on Lockscreen to Sleep
     * Double tap on Statusbar to Sleep
 
 Notifications
@@ -72,19 +70,11 @@ Notifications
     * Vibrate on call connect
     * Vibrate on call waiting
     * Vibrate on call disconnect
-    * Heads Up
-    * Saner Heads Up
-    * Edge Lighting
-    * Edge Lighting View
-    * Edge Lighting Color
-    * Edge Lighting Duration
+    * Make Heads Less Annoying
     * reTicker
     * Use app colored background for reticker
 
 Miscellaneous
 ----------
-    * Wake on Plug
     * Ripple effect
     * Haptic Feedback on back gesture.
-    * Smart Pixels
-    * Screen Off Animations
