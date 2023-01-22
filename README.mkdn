@@ -3,7 +3,7 @@
 <img src="https://github.com/SpiceOS/xda_template/blob/13/Banner/header.png?raw=true">
 <br>
 <br>
-<strong><i>* Below features are as of 08 November, 2022 in the SpiceOS Beta source.</i></strong>
+<strong><i>* Below features are as of 22 January, 2023 in the SpiceOS Beta source.</i></strong>
 <br>
 <br>
 <hr>
@@ -20,9 +20,11 @@ Status Bar
 ----------
     * Network Traffic monitor and customization
     * 4G icon toggle
+    * Old Style Mobile Data Icons
     * Battery style and percentage customization
     * Show Data Disabled icon
     * Roaming Indicator
+    * Clock Customizations
 
 Quick Settings
 ----------
@@ -31,10 +33,12 @@ Quick Settings
     * Adaptive Brightness Button
     * Show Brightness Slider on bottom
     * Vibrate on Touch
+    * Data Usage
 
 Buttons
 ----------
     * Music Control
+    * Volume Wake
 
 Navigation Bar
 ----------
@@ -44,8 +48,8 @@ Lockscreen
 ----------
     * Lockscreen Charging Info.
     * Pulse
-    * Edge Lighting
     * FP Authentication & error vibration
+    * Media Cover Art
 
 Customization
 ----------
@@ -58,12 +62,14 @@ Customization
 Power Menu
 ----------
     * Enable Advanced Restart
+    * Disable Power menu on Lock
 
 Gestures
 ----------
     * System Gestures.
     * Three Finger Gesture for Screenshot.
-    * Double tap on Statusbar to Sleep
+    * Double tap on Statusbar & Lockscreen to Sleep
+    * Toggle Torch
 
 Notifications
 ----------
@@ -71,10 +77,10 @@ Notifications
     * Vibrate on call waiting
     * Vibrate on call disconnect
     * Make Heads Less Annoying
-    * reTicker
-    * Use app colored background for reticker
+    * Edge Lighting
 
 Miscellaneous
 ----------
     * Ripple effect
     * Haptic Feedback on back gesture.
+    * Ignore Window Secure Flags
